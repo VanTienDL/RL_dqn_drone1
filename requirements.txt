@@ -1,0 +1,16 @@
+# Core
+numpy==1.26.4
+gymnasium==0.29.1
+
+# PyTorch (CPU stable)
+torch==2.2.2
+
+# Simulation
+pybullet==3.2.6
+
+# ONNX export
+onnx==1.16.0
+onnxscript==0.1.0
+
+# Optional (debug / test ONNX)
+onnxruntime==1.17.3
